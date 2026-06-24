@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0005-longest-palindromic-substring) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Math
+|  |
+| ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3700-number-of-zigzag-arrays-ii) |
 <!---LeetCode Topics End-->
