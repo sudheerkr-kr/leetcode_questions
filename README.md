@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [1929-concatenation-of-array](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1929-concatenation-of-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -129,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
