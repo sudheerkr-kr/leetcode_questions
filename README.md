@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0520-detect-capital](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0796-rotate-string) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0051-n-queens) |
 ## Sliding Window
 |  |
