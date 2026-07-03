@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0001-two-sum) |
 | [0051-n-queens](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0051-n-queens) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
