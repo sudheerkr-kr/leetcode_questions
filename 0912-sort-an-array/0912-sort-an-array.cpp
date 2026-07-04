@@ -1,48 +1,35 @@
 class Solution {
 public:
-    void merge(vector<int>&arr , vector<int>&temp , int start, int mid, int end){
-        int i = start ;
-        int j= mid+1 ;
-        int k=start;
-        while(i<= mid && j<=end){
-            if(arr[i]<=arr[j]){
-                temp[k]= arr[i];
-                k++;
-                i++;
+    void mergeInPlace(vector<int>&arr , int start, int mid, int end){
+        int total_size = end-start+1;
+        int gap =  total_size/2 +total_size%2;
+        while(gap>0){
+            int i= start , j =  start +gap  ;
+            while(j<= end){
+                if(arr[i] > arr[j]){
+                    swap(arr[i], arr[j]);
+                }
+                ++i , ++j ;
             }
-            else{
-                temp[k]= arr[j];
-                k++;
-                j++;
-            }
-        }    
-            while(i<=mid ){
-                temp[k++]=arr[i++];
-
-            }
-            while(j <=end){
-                temp[k++]= arr[j++];
-            }
-            while(start<=end){
-                arr[start] =temp[start];
-                start++;
-            }
+            gap = gap<=1 ? 0 : (gap/2) + gap%2 ;
+        } 
         
     }
-    void mergeSort(vector<int>&arr , vector<int>&temp , int start, int end){
+    void mergeSort(vector<int>&arr , int start, int end){
         if(start>=end){
             return ;
 
         }
         int mid=(start+end)/2;
         
-        mergeSort(arr, temp , start, mid);
-        mergeSort(arr , temp , mid+1 , end);
-        merge(arr, temp, start , mid , end);
+        mergeSort(arr , start, mid);
+        mergeSort(arr  , mid+1 , end);
+        mergeInPlace(arr,  start , mid , end);
+
     }
     vector<int> sortArray(vector<int>& nums) {
-       vector<int> temp(nums.size(),0);
-       mergeSort(nums, temp , 0, nums.size()-1);
+       
+       mergeSort(nums, 0, nums.size()-1);
        return nums; 
     }
 };
