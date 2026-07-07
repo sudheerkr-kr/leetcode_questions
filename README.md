@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0051-n-queens) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0047-permutations-ii) |
 | [0645-set-mismatch](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1288-remove-covered-intervals) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0051-n-queens) |
 ## Sliding Window
 |  |
