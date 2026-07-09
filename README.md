@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Array
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1655-distribute-repeating-integers](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1655-distribute-repeating-integers) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3146-permutation-difference-between-two-strings](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3146-permutation-difference-between-two-strings) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -254,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Shortest Path
 |  |
 | ------- |
