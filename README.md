@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0520-detect-capital](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0796-rotate-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1528-shuffle-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3700-number-of-zigzag-arrays-ii) |
