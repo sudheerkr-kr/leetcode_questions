@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0485-max-consecutive-ones) |
 | [0526-beautiful-arrangement](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0526-beautiful-arrangement) |
+| [0605-can-place-flowers](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0912-sort-an-array) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0605-can-place-flowers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
