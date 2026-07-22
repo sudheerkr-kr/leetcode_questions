@@ -1,12 +1,3 @@
-/*     Scroll below to see JAVA code also    */
-/*
-    MY YOUTUBE VIDEO ON THIS Qn : https://www.youtube.com/watch?v=YW6kW65yRx8
-    Company Tags                : will update soon
-    Leetcode Link               : https://leetcode.com/problems/maximize-active-section-with-trade-ii
-*/
-
-
-/**************************************************************** C++ ****************************************************************/
 //Approach (Binary search and Segment Tree)
 //T.C : O(n + qlog(n))
 //S.C : O(n+q)
