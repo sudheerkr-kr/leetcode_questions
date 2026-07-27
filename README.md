@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1528-shuffle-string) |
 | [1655-distribute-repeating-integers](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1655-distribute-repeating-integers) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0912-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
