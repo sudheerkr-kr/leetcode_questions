@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0526-beautiful-arrangement](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0526-beautiful-arrangement) |
+| [0877-stone-game](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1655-distribute-repeating-integers](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1655-distribute-repeating-integers) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0912-sort-an-array) |
 | [1260-shift-2d-grid](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1288-remove-covered-intervals) |
@@ -390,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0347-top-k-frequent-elements) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
