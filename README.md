@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0148-sort-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0148-sort-list](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0047-permutations-ii) |
+| [0148-sort-list](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0645-set-mismatch) |
@@ -369,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0206-reverse-linked-list) |
 ## Bucket Sort
 |  |
