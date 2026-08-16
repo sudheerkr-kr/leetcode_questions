@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0138-copy-list-with-random-pointer](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0347-top-k-frequent-elements](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0645-set-mismatch) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0148-sort-list](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0206-reverse-linked-list) |
 ## Bucket Sort
