@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0152-maximum-product-subarray) |
 | [0526-beautiful-arrangement](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0526-beautiful-arrangement) |
 | [0877-stone-game](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1301-number-of-paths-with-max-score) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0137-single-number-ii](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0238-product-of-array-except-self) |
