@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1528-shuffle-string) |
+| [1927-sum-game](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3146-permutation-difference-between-two-strings) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1927-sum-game](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Backtracking
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1927-sum-game) |
 ## Recursion
 |  |
 | ------- |
