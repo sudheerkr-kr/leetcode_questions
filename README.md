@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1528-shuffle-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1927-sum-game) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1655-distribute-repeating-integers](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1655-distribute-repeating-integers) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
