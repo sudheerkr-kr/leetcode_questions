@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0125-valid-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Tree
@@ -464,4 +466,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
