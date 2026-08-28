@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0125-valid-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0796-rotate-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0347-top-k-frequent-elements](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0347-top-k-frequent-elements) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1331-rank-transform-of-an-array) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
