@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0796-rotate-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0155-min-stack) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Tree
 |  |
