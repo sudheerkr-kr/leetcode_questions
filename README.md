@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2057-smallest-index-with-equal-value](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2057-smallest-index-with-equal-value) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
