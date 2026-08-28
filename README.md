@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0155-min-stack) |
+| [1019-next-greater-node-in-linked-list](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Tree
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0912-sort-an-array) |
+| [1019-next-greater-node-in-linked-list](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1260-shift-2d-grid](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1301-number-of-paths-with-max-score) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0148-sort-list](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0206-reverse-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Bucket Sort
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [1019-next-greater-node-in-linked-list](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Quickselect
 |  |
