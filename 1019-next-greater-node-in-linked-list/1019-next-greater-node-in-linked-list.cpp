@@ -30,6 +30,12 @@ public:
             }
             st.push(i);
         }
+        while(!st.empty()){
+            ll[st.top()]= 0;
+            st.pop();
+
+        }
+        ll[ll.size()-1]=0;
 
         return ans;
     }
