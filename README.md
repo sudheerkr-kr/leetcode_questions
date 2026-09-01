@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1927-sum-game) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
