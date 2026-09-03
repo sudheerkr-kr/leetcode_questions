@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0125-valid-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0394-decode-string](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0796-rotate-string) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0394-decode-string) |
 | [0901-online-stock-span](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0901-online-stock-span) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1019-next-greater-node-in-linked-list](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1019-next-greater-node-in-linked-list) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0394-decode-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
