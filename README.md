@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1927-sum-game](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2651-calculate-delayed-arrival-time](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2651-calculate-delayed-arrival-time) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
