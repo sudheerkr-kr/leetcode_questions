@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1528-shuffle-string) |
+| [1816-truncate-sentence](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1927-sum-game) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1550-three-consecutive-odds) |
 | [1655-distribute-repeating-integers](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1655-distribute-repeating-integers) |
 | [1776-car-fleet-ii](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1776-car-fleet-ii) |
+| [1816-truncate-sentence](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1816-truncate-sentence) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
