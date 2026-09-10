@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3467-transform-array-by-parity](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3467-transform-array-by-parity](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3467-transform-array-by-parity) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String Matching
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3467-transform-array-by-parity](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3536-maximum-product-of-two-digits) |
