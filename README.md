@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0051-n-queens) |
+| [0075-sort-colors](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0085-maximal-rectangle) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -568,4 +571,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0901-online-stock-span) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
