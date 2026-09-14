@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0002-add-two-numbers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1776-car-fleet-ii](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1776-car-fleet-ii) |
@@ -579,4 +580,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0075-sort-colors) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
