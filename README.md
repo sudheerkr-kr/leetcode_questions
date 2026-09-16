@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0724-find-pivot-index) |
 | [0853-car-fleet](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0853-car-fleet) |
 | [0877-stone-game](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0904-fruit-into-baskets) |
