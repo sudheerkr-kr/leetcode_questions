@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0724-find-pivot-index) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0002-add-two-numbers) |
+| [0523-continuous-subarray-sum](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0877-stone-game) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0523-continuous-subarray-sum) |
 | [0526-beautiful-arrangement](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0526-beautiful-arrangement) |
 | [0560-subarray-sum-equals-k](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0605-can-place-flowers) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0645-set-mismatch) |
@@ -623,4 +627,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0836-rectangle-overlap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
