@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1052-grumpy-bookstore-owner](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1052-grumpy-bookstore-owner) |
 | [1260-shift-2d-grid](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1301-number-of-paths-with-max-score) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1052-grumpy-bookstore-owner](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1052-grumpy-bookstore-owner) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
