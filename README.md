@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0152-maximum-product-subarray) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0347-top-k-frequent-elements) |
