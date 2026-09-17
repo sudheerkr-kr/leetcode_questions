@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0198-house-robber) |
+| [0435-non-overlapping-intervals](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0435-non-overlapping-intervals) |
 | [0526-beautiful-arrangement](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0526-beautiful-arrangement) |
 | [0877-stone-game](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1301-number-of-paths-with-max-score) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0260-single-number-iii) |
 | [0303-range-sum-query-immutable](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0523-continuous-subarray-sum) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0645-set-mismatch) |
 | [0853-car-fleet](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0853-car-fleet) |
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0605-can-place-flowers) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1221-split-a-string-in-balanced-strings) |
