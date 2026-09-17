@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0347-top-k-frequent-elements) |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
