@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0125-valid-palindrome) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0070-climbing-stairs) |
 | [0523-continuous-subarray-sum](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1260-shift-2d-grid) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1929-concatenation-of-array) |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0260-single-number-iii) |
 | [0526-beautiful-arrangement](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0526-beautiful-arrangement) |
