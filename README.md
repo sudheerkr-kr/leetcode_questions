@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0394-decode-string) |
 | [0853-car-fleet](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0901-online-stock-span) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0901-online-stock-span) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0239-sliding-window-maximum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Bracket Sequences
