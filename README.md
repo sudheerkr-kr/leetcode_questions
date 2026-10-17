@@ -725,4 +725,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
