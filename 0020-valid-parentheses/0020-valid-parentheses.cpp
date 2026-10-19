@@ -1,50 +1,37 @@
 class Solution {
 public:
     bool isValid(string s) {
-       stack<char>st;
-       for(int i=0; i<s.length() ; i++){
-        char ch=s[i];
-
-            //opening bracket
-            if(ch=='(' ||ch == '{' || ch =='['){
-                st.push(ch);
-
+        stack<char>st;
+        for(int i=0; i<s.size() ; i++){
+            if(s[i]=='(' ||s[i]=='[' ||s[i]=='{'){
+                st.push(s[i]);
             }
             else{
-                //closing bracket
                 if(!st.empty()){
                     char topCh = st.top();
-                    if(ch==')' && topCh =='('){
-                        //mapping
+                    if(s[i]==')' && topCh =='('){
                         st.pop();
-
                     }
-                    else if(ch=='}' && topCh =='{'){
-                        //mapping
+                    else if(s[i]==']' && topCh =='['){
                         st.pop();
-                        
                     }
-                    else if(ch==']' && topCh =='['){
-                        //mapping
+                    else if(s[i]=='}' && topCh =='{'){
                         st.pop();
-                        
                     }
                     else{
-                        //brackets not matching
                         return false;
                     }
+                    
                 }
                 else{
                     return false;
                 }
             }
         }
+        if(st.empty()){
+            return true;
+        }
+        return false;
 
-       if(st.empty()){
-        return true; // matlb valud  h
-       }
-       else{
-       return false;
-       }
     }
 };
