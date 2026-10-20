@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0232-implement-queue-using-stacks) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0523-continuous-subarray-sum](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0836-rectangle-overlap) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0162-find-peak-element) |
