@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0394-decode-string) |
+| [0739-daily-temperatures](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0901-online-stock-span) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0853-car-fleet) |
 | [0877-stone-game](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0904-fruit-into-baskets) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0085-maximal-rectangle) |
+| [0739-daily-temperatures](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1019-next-greater-node-in-linked-list) |
