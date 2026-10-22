@@ -1,29 +1,27 @@
+
 class Solution {
-    class Car {
-    public:
-        int pos, speed;
-        Car(int p, int s) : pos(p), speed(s) {};
-    };
-    static bool myComp(Car& a, Car& b) {
-        return a.pos < b.pos;
-    }
 public:
     int carFleet(int target, vector<int>& position, vector<int>& speed) {
-        vector<Car> cars;
+        int n = position.size();
 
-        for (int i = 0; i < position.size(); i++) {
-            Car car(position[i], speed[i]);
-            cars.push_back(car);
+        vector<pair<int, int>> cars;
+
+        for (int i = 0; i < n; i++) {
+            cars.push_back({position[i], speed[i]});
         }
-        sort(cars.begin(), cars.end(), myComp);
-        stack<float> st;
-        for (auto car : cars) {
-            float time = (target - car.pos) / ((float)car.speed);
-            while (!st.empty() && time >= st.top()) {
-                st.pop();
+
+        sort(cars.rbegin(), cars.rend());
+
+        stack<double> st;
+
+        for (int i = 0; i < n; i++) {
+            double time = (double)(target - cars[i].first)/ cars[i].second;
+
+            if (st.empty() || time > st.top()) {
+                st.push(time);
             }
-            st.push(time);
         }
+
         return st.size();
     }
 };
