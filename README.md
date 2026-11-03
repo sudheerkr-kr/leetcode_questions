@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0994-rotting-oranges) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0912-sort-an-array) |
+| [0994-rotting-oranges](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1052-grumpy-bookstore-owner](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1052-grumpy-bookstore-owner) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2812-find-the-safest-path-in-a-grid) |
