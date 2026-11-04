@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0733-flood-fill) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0994-rotting-oranges) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0684-redundant-connection) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -651,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0684-redundant-connection) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
