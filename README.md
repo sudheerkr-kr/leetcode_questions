@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1020-number-of-enclaves](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1020-number-of-enclaves) |
 | [1052-grumpy-bookstore-owner](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1052-grumpy-bookstore-owner) |
 | [1260-shift-2d-grid](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1288-remove-covered-intervals) |
@@ -633,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0684-redundant-connection) |
+| [1020-number-of-enclaves](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -655,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2812-find-the-safest-path-in-a-grid) |
