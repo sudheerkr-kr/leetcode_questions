@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2390-removing-stars-from-a-string) |
+| [2399-check-distances-between-same-letters](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2399-check-distances-between-same-letters) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3146-permutation-difference-between-two-strings) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-smallest-index-with-equal-value](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2057-smallest-index-with-equal-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2399-check-distances-between-same-letters](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2399-check-distances-between-same-letters) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2399-check-distances-between-same-letters](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2399-check-distances-between-same-letters) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
