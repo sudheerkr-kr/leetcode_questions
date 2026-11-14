@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -681,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0785-is-graph-bipartite) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -829,4 +833,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
