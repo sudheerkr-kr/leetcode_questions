@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0540-single-element-in-a-sorted-array](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0704-binary-search) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0523-continuous-subarray-sum) |
 | [0526-beautiful-arrangement](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0526-beautiful-arrangement) |
+| [0540-single-element-in-a-sorted-array](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sudheerkr-kr/leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
